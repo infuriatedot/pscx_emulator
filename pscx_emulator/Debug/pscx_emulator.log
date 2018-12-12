@@ -1,0 +1,15 @@
+﻿  pscx_cpu.cpp
+c:\users\admin\pscx_emulator\pscx_emulator\pscx_cpu.cpp(412): warning C4002: слишком много фактических параметров для макроопределения "assert"
+c:\users\admin\pscx_emulator\pscx_emulator\pscx_cpu.cpp(413): warning C4002: слишком много фактических параметров для макроопределения "assert"
+c:\users\admin\pscx_emulator\pscx_emulator\pscx_cpu.cpp(679): warning C4002: слишком много фактических параметров для макроопределения "assert"
+c:\users\admin\pscx_emulator\pscx_emulator\pscx_cpu.cpp(685): warning C4002: слишком много фактических параметров для макроопределения "assert"
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  pscx_ram.cpp
+  pscx_memory.cpp
+  pscx_main.cpp
+  pscx_interconnect.cpp
+  pscx_instruction.cpp
+  pscx_bios.cpp
+  pscx_emulator.vcxproj -> C:\Users\admin\pscx_emulator\Debug\pscx_emulator.exe
+  pscx_emulator.vcxproj -> C:\Users\admin\pscx_emulator\Debug\pscx_emulator.pdb (Partial PDB)
